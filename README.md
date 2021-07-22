@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9ebf1ec9e6303d5e230777e528ed633ab86d8245a0346b52e8752dc0c593c96
-size 39
+# PettingSimulator2001
+
+Videogame i made in Unity, this is just a backup for the built gamefiles for windows, Mac and WebGl. Also the OST.
+Also currently hosted on https://fab2.at/
+
+Stored with git lfs https://git-lfs.github.com/spec/v1
